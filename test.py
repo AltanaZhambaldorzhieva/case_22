@@ -1,4 +1,4 @@
-from solution import Loader
+from sol import Loader
 
 load = Loader()
 
